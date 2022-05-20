@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/pwamap/static/css/main.67921584.chunk.css",
-    "main.js": "/pwamap/static/js/main.5201466f.chunk.js",
-    "main.js.map": "/pwamap/static/js/main.5201466f.chunk.js.map",
-    "runtime-main.js": "/pwamap/static/js/runtime-main.4f15adb6.js",
-    "runtime-main.js.map": "/pwamap/static/js/runtime-main.4f15adb6.js.map",
-    "static/js/2.d7681b2c.chunk.js": "/pwamap/static/js/2.d7681b2c.chunk.js",
-    "static/js/2.d7681b2c.chunk.js.map": "/pwamap/static/js/2.d7681b2c.chunk.js.map",
-    "index.html": "/pwamap/index.html",
-    "service-worker.js": "/pwamap/service-worker.js",
-    "service-worker.js.map": "/pwamap/service-worker.js.map",
-    "static/css/main.67921584.chunk.css.map": "/pwamap/static/css/main.67921584.chunk.css.map",
-    "static/js/2.d7681b2c.chunk.js.LICENSE.txt": "/pwamap/static/js/2.d7681b2c.chunk.js.LICENSE.txt"
+    "main.css": "/PWAmap/static/css/main.67921584.chunk.css",
+    "main.js": "/PWAmap/static/js/main.69384aac.chunk.js",
+    "main.js.map": "/PWAmap/static/js/main.69384aac.chunk.js.map",
+    "runtime-main.js": "/PWAmap/static/js/runtime-main.71b61c41.js",
+    "runtime-main.js.map": "/PWAmap/static/js/runtime-main.71b61c41.js.map",
+    "static/js/2.fae2f4ea.chunk.js": "/PWAmap/static/js/2.fae2f4ea.chunk.js",
+    "static/js/2.fae2f4ea.chunk.js.map": "/PWAmap/static/js/2.fae2f4ea.chunk.js.map",
+    "index.html": "/PWAmap/index.html",
+    "service-worker.js": "/PWAmap/service-worker.js",
+    "service-worker.js.map": "/PWAmap/service-worker.js.map",
+    "static/css/main.67921584.chunk.css.map": "/PWAmap/static/css/main.67921584.chunk.css.map",
+    "static/js/2.fae2f4ea.chunk.js.LICENSE.txt": "/PWAmap/static/js/2.fae2f4ea.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.4f15adb6.js",
-    "static/js/2.d7681b2c.chunk.js",
+    "static/js/runtime-main.71b61c41.js",
+    "static/js/2.fae2f4ea.chunk.js",
     "static/css/main.67921584.chunk.css",
-    "static/js/main.5201466f.chunk.js"
+    "static/js/main.69384aac.chunk.js"
   ]
 }
